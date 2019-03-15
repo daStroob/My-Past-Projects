@@ -1,4 +1,5 @@
 # My-Past-Projects
+by Dario Strübin
 This Folder contains a small selection of material about three past projects of mine.
 
 <b>Innovation Project 2017:</b><br>
