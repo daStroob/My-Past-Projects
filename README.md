@@ -28,5 +28,5 @@ This was a private project of mine which I did for fun. I built a 16x16 pixels d
 I also included the code which runs on the Arduino.
 
 <p align="center">
-    <img src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif" width="30%">
+    <img width="30%" src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif">
 </p>
