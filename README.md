@@ -11,10 +11,10 @@ My primary responsibility was the mechatronics section and the writing of the co
     <img src="/1%20-%20Innovation%20Project%202017/Innovation%20Project-4.jpg" width="49%">
 </div>
 
-<br>
-<br>
-<img align="right" width="20%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+<img align="right" width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
 
+<br>
+<br>
 <b>Arcade Cabinet:</b><br>
 
 For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved planning and building the cabinet itself, connecting and reading input devices through an Arduino and programming the software and some videogames in Java.<br>
