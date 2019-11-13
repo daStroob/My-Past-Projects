@@ -14,7 +14,13 @@ My primary responsibility was the mechatronics section and the writing of the co
 
 <br>
 
-<img align="right" width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+<div class="nav3">
+    <b>Arcade Cabinet:</b><br>
+
+For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved planning and building the cabinet itself, connecting and reading input devices through an Arduino and programming the software and some videogames in Java.<br>
+I wrote a complete documentation of the project, which I included in this folder. I apologize for not having an English version of that document. I also included the code of the main arcade software and of the Arduino input handling.
+    <img width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+</div>
 
 <br>
 <b>Arcade Cabinet:</b><br>
@@ -28,4 +34,5 @@ I wrote a complete documentation of the project, which I included in this folder
 This was a private project of mine which I did for fun. I built a 16x16 pixels display to show old school pixel art. An Arduino reads sequences of images on an SD card and then displays them on multiple rows of LED-strips. The case was all built by lasercut MDF pieces and a 3D printed frame to cleanly separate the individual pixels.<br>
 I also included the code which runs on the Arduino.
 
+<br>
 <img align="center" src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif" width="30%">
