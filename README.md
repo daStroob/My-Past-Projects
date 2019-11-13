@@ -11,9 +11,11 @@ My primary responsibility was the mechatronics section and the writing of the co
     <img src="/1%20-%20Innovation%20Project%202017/Innovation%20Project-4.jpg" width="49%">
 </div>
 
-<img align="right" width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
 
 <br>
+
+<img align="right" width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+
 <br>
 <b>Arcade Cabinet:</b><br>
 
@@ -26,3 +28,4 @@ I wrote a complete documentation of the project, which I included in this folder
 This was a private project of mine which I did for fun. I built a 16x16 pixels display to show old school pixel art. An Arduino reads sequences of images on an SD card and then displays them on multiple rows of LED-strips. The case was all built by lasercut MDF pieces and a 3D printed frame to cleanly separate the individual pixels.<br>
 I also included the code which runs on the Arduino.
 
+<img align="center" src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif" width="30%">
