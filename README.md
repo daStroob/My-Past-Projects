@@ -13,20 +13,14 @@ My primary responsibility was the mechatronics section and the writing of the co
 
 
 <br>
-
-<div class="nav3">
-    <b>Arcade Cabinet:</b><br>
-
-For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved planning and building the cabinet itself, connecting and reading input devices through an Arduino and programming the software and some videogames in Java.<br>
-I wrote a complete documentation of the project, which I included in this folder. I apologize for not having an English version of that document. I also included the code of the main arcade software and of the Arduino input handling.
-    <img width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
-</div>
-
-<br>
 <b>Arcade Cabinet:</b><br>
 
 For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved planning and building the cabinet itself, connecting and reading input devices through an Arduino and programming the software and some videogames in Java.<br>
 I wrote a complete documentation of the project, which I included in this folder. I apologize for not having an English version of that document. I also included the code of the main arcade software and of the Arduino input handling.
+
+<p align="center">
+  <img width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+</p>
 
 <br>
 <br>
@@ -35,4 +29,6 @@ This was a private project of mine which I did for fun. I built a 16x16 pixels d
 I also included the code which runs on the Arduino.
 
 <br>
-<img align="center" src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif" width="30%">
+<p align="center">
+    <img align="center" src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif" width="30%">
+</p>
