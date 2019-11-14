@@ -7,8 +7,8 @@ As part of my mechanical engineering studies at ETH Zürich I participated in th
 My primary responsibility was the mechatronics section and the writing of the control code in Labview.
 
 <div class="nav3">
-    <img src="/1%20-%20Innovation%20Project%202017/Innovation%20Project-1.jpg" width="49%">
-    <img src="/1%20-%20Innovation%20Project%202017/Innovation%20Project-4.jpg" width="49%">
+    <img src="/2%20-%20Innovation%20Project%202017/Innovation%20Project-1.jpg" width="49%">
+    <img src="/2%20-%20Innovation%20Project%202017/Innovation%20Project-4.jpg" width="49%">
 </div>
 
 
@@ -19,7 +19,7 @@ For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved
 I wrote a complete documentation of the project, which I included in this folder. I apologize for not having an English version of that document. I also included the code of the main arcade software and of the Arduino input handling.
 
 <p align="center">
-  <img width="15%" src="2%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+  <img width="15%" src="3%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
 </p>
 
 <br>
@@ -28,5 +28,5 @@ This was a private project of mine which I did for fun. I built a 16x16 pixels d
 I also included the code which runs on the Arduino.
 
 <p align="center">
-    <img width="30%" src="/3%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif">
+    <img width="30%" src="/4%20-%20Pixel%20Art%20Display/Pixel%20Art%20Display.gif">
 </p>
