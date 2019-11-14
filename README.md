@@ -1,7 +1,15 @@
 # My-Past-Projects
 by Dario Strübin<br>
-This Folder contains a small selection of material about three past projects of mine.
+This Folder contains a small selection of material about four past projects of mine.
 
+<b>Any Robot Controller Interface:</b><br>
+
+<div class="nav3">
+    <img src="/1%20-%20ARCI/ARCI_overview.png" width="43%">
+    <img src="/1%20-%20ARCI/Foot%20Placer.gif" width="55%">
+</div>
+
+<br>
 <b>Innovation Project 2017:</b><br>
 As part of my mechanical engineering studies at ETH Zürich I participated in the innovation project together with a small team of five people. In the innovation project, over 90 teams are challenged to find the best solution for this year’s task. Therefore, we had to build a robot which can conduct research through collecting probes on a fictional asteroid. As an additional challenge, no wheeled robots were allowed. <br>
 My primary responsibility was the mechatronics section and the writing of the control code in Labview.
