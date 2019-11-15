@@ -1,8 +1,9 @@
 # My-Past-Projects
 by Dario Strübin<br>
-This Folder contains a small selection of material about four past projects of mine.
+<p>This Folder contains a small selection of material about four past projects of mine.</p>
+<br>
 
-<b>Any Robot Controller Interface:</b><br>
+<b>Any Robot Controller Interface:</b>
 <p>For my bachelor's thesis I worked on a new controller interface for the quadrupedal robot 'Anymal'. The aim was to develop an interface that was intuitive and easy to use. I started by reading papers on the topic of human-robot interaction and interface design. Then I developed a touch interface, enabling the user to access Anymal's main functionalities in an intuitive and effective manner, as well as a new widget to place individual feet of the robot on a selected location on the map.</p>
 <p>I included in this repository the written report, documenting the project and my progress.</p>
 
