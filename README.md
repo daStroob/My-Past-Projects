@@ -9,7 +9,7 @@ I included in this repository the written report, documenting the project and my
 
 <div class="nav3">
     <img src="/1%20-%20ARCI/ARCI_overview.png" width="43%">
-    <img src="/1%20-%20ARCI/Foot%20Placer.gif" width="54%">
+    <img src="/1%20-%20ARCI/Foot%20Placer%20Preview.gif" width="54%">
 </div>
 
 <br>
