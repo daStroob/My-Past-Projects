@@ -1,7 +1,15 @@
 # My-Past-Projects
 <p>by Dario Strübin <br>
-This Folder contains a small selection of material about four past projects of mine.</p>
+This Folder contains a small selection of material about five past projects of mine.</p>
 <br>
+
+<p><b>Scewo Internship</b><br>
+During a six months long industrial internship at the startup company <i>Scewo</i> I worked on the development of a balancing and stairclimbing wheelchair as a software engineer. The main part of the job was contributing to the software running the wheelchair, for example the stair-detection using time of flight sensors. Besides that I developed a graphical interface in C++ and Qt to plot and display information about the wheelchair and change settings. This interface was then used by the team to help during development, testing and debugging.
+    
+<div class="nav3">
+    <img src="/5%20-%205Scewo%20Internship/scewo_example.mp4" width="49%">
+    <img src="/5%20-%205Scewo%20Internship/scewo_gui.mp4" width="54%">
+</div>
 
 <p><b>Any Robot Controller Interface:</b><br>
 For my bachelor's thesis I worked on a new controller interface for the quadrupedal robot 'Anymal'. The aim was to develop an interface that was intuitive and easy to use. I started by reading papers on the topic of human-robot interaction and interface design. Then I developed a touch interface, enabling the user to access Anymal's main functionalities in an intuitive and effective manner, as well as a new widget to place individual feet of the robot on a selected location on the map.<br>
