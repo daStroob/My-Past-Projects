@@ -23,11 +23,12 @@ I included in this repository the written report, documenting the project and my
 
 <br/>
 <p><b>Arcade Cabinet:</b><br>
-For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved planning and building the cabinet itself, connecting and reading input devices through an Arduino and programming the software and some videogames in Java.<br>
+For my graduation work at the Gymnasium I built an Arcade Cabinet. This involved planning and building the cabinet itself, connecting and reading input devices through an Arduino, programming the software in Java and finally design and code some videogames.<br>
 I wrote a complete documentation of the project (in German), which I included in this folder. I also included the code of the main arcade software and of the Arduino input handling.</p>
 
 <p align="center">
-  <img width="15%" src="3%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+    <img width="35%" src="3%20-%20Arcade%20Cabinet/Arcade%20Cabinet.jpg">
+    <img width="60%" src="3%20-%20Arcade%20Cabinet/arcade%20demo%20GIF.gif"> 
 </p>
 
 <br>
