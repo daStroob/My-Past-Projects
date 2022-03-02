@@ -3,6 +3,14 @@
 This Folder contains a small selection of material about five past projects of mine.</p>
 <br>
 
+<p><b>Origami Delta Manipulator for Aerial Interaction</b><br>
+For my semester project I worked on the development of a lightweight origami delta manipulator for aerial interaction. This manipulator uses a composite of flexible and rigid materials, achieving a folding structure without the use of any conventional joints. My primary work consisted in improving the controls and modeling the inverse kinematics of the system. This resulted in the manipulator's ability to pinpoint a desired point in 3d space and compensate for drone movement. Additionally the compliant nature of the manipulator was analyzed and exploited for soft interaction tasks.
+    
+<div class="nav3">
+    <img src="/6%20-%20Origami%20Delta%20Aerial%20Manipulator/compensation.gif" width="70%">
+    <img src="/6%20-%20Origami%20Delta%20Aerial%20Manipulator/heart.gif" width="28%">
+</div>    
+
 <p><b>Scewo Internship</b><br>
 During a six months long industrial internship at the startup company <i>Scewo</i> I worked on the development of a balancing and stairclimbing wheelchair as a software engineer. The main part of the job was contributing to the software running the wheelchair, for example the stair-detection using time of flight sensors. Besides that I developed a graphical interface in C++ and Qt to plot and display information about the wheelchair and change settings. This interface was then used by the team to help during development, testing and debugging.
     
