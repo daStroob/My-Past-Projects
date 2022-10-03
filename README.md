@@ -1,7 +1,16 @@
 # My-Past-Projects
 <p>by Dario Strübin <br>
-This Folder contains a small selection of material about five past projects of mine.</p>
+This Folder contains a small selection of material about seven past projects of mine.</p>
 <br>
+
+<p><b>Classification of Waste using simulated Data</b><br>
+
+<div class="nav3">
+    <img src="/7%20-%20Classification%20of%20waste%20using%20simulated%20data/randomization_animation.gif" width="40.8%">
+    <img src="/7%20-%20Classification%20of%20waste%20using%20simulated%20data/multilabel_detection.gif" width="56%">
+</div>    
+
+For my master thesis I am currently working on image detection and multilabel classification of municipal waste. To overcome the huge costs associated with the labeling of complex and cluttered images of waste, I am developing a pipeline for the generation of synthetic data. 3D scanned objects can be fed into this pipeline, which will then add a number of randomization steps and finally take a high-quality render in Blender (see animation on the left). Any number of completely annotated images can then be generated through this process, which drastically reduces the amount of labeled real-world data to train a neural network. The project is done in colaboration with the autonomous river cleanup project, with the aim of using the resulting neural network to detect litter on a conveyor belt, pick it up with robotic arms and segregate it for recycling purposes.
 
 <p><b>Origami Delta Manipulator for Aerial Interaction</b><br>
 For my semester project I worked on the development of a lightweight origami delta manipulator for aerial interaction. This manipulator uses a composite of flexible and rigid materials, achieving a folding structure without the use of any conventional joints. My primary work consisted in improving the controls and modeling the inverse kinematics of the system. This resulted in the manipulator's ability to pinpoint a desired point in 3d space and compensate for drone movement. Additionally the compliant nature of the manipulator was analyzed and exploited for soft interaction tasks.
